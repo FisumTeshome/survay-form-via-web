@@ -1,0 +1,17 @@
+body {background-color:#78da62;
+    margin:0;
+    font-family:Tahoma;
+    color:#1d1d1d;}
+    h1, p {
+      margin: 1em auto;
+      text-align: center;
+    }
+    .formclas{background-color:#546f4f;}
+    .forfild{display:inline;}
+    input{width:100%;}
+    .chose{width: unset;
+      margin: 0 0.5em 0 0;
+      vertical-align: middle;
+      display:inline;}
+    lable {display:block;}
+    .field1{background-color:#e3f3d6}
